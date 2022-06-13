@@ -12,7 +12,7 @@ Here the sentiment of the review is the target variable that needs to be predict
 * DESCRIPTIVE STATISTICS
 * DATA VISUALIZATION
 * DATA PREPROCESSING & FEATURE ENGINEERING
-* LIGHT GBM MODEL BUILDING
+* FIND SENTIMENT TO RATING AND CULCATE 
 
 
 
